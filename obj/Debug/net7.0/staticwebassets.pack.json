@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -57,6 +61,14 @@
       "PackagePath": "staticwebassets\\images\\homebg.jpg"
     },
     {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\lock.png",
+      "PackagePath": "staticwebassets\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\octa1.jpg",
       "PackagePath": "staticwebassets\\images\\octa1.jpg"
     },
@@ -67,6 +79,14 @@
     {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\octanetabout.jpg",
       "PackagePath": "staticwebassets\\images\\octanetabout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\person.png",
+      "PackagePath": "staticwebassets\\images\\person.png"
+    },
+    {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
     },
     {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\js\\fontawesome.js",

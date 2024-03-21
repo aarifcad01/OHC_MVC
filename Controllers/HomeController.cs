@@ -62,7 +62,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View(AboutUs);
+        return View();
     }
     public IActionResult AboutUs()
     {
@@ -74,6 +74,10 @@ public class HomeController : Controller
         return View();
     }
     public IActionResult ContactUs()
+    {
+        return View();
+    }
+    public IActionResult Registration()
     {
         return View();
     }
