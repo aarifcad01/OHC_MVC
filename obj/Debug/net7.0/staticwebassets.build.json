@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wNcZwPng2YYQyafHjOXM5gT02hxyURVoLJk/kYEpJCs=",
+  "Hash": "twE76ruwqF9/h7s5jcDzTUcVbK0W8EGIq501OA2WGV8=",
   "Source": "OHCPROJ",
   "BasePath": "_content/OHCPROJ",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\log-reg.css",
+      "SourceId": "OHCPROJ",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\",
+      "BasePath": "_content/OHCPROJ",
+      "RelativePath": "css/log-reg.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\log-reg.css"
     },
     {
       "Identity": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\registration.css",
@@ -287,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\homebg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\img-sprite.png",
+      "SourceId": "OHCPROJ",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\",
+      "BasePath": "_content/OHCPROJ",
+      "RelativePath": "images/img-sprite.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img-sprite.png"
     },
     {
       "Identity": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\lock.png",

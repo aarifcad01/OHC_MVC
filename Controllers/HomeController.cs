@@ -77,9 +77,40 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Registration()
+    [HttpGet]
+    public IActionResult Register()
     {
         return View();
+    }
+void conStr(){
+
+      con.ConnectionString="data source= 192.168.1.240\\SQLEXPRESS ; database=cad_ohc; user ID=CADBATCH01;password=CAD@123pass; TrustServerCertificate=True;";
+        }
+
+
+    [HttpPost]
+  public IActionResult RegisterDB(RegisterModel rmodel){
+        conStr();
+        con.Open();
+        com.Connection=con;
+        com.CommandText="insert into User_reg(Username,Email,Phone_Number,Address,City,Postal_Zipcode) values (@Username,@Email,@Phone_Number,@Address,@City,@Postal_Zipcode) ";
+        com.Parameters.AddWithValue("@Username",rmodel.Username);
+        com.Parameters.AddWithValue("@Email",rmodel.Email);
+        com.Parameters.AddWithValue("@Phone_Number",rmodel.Phone_Number);
+        com.Parameters.AddWithValue("@Address",rmodel.Address);
+        com.Parameters.AddWithValue("@City",rmodel.City);
+        com.Parameters.AddWithValue("@Postal_Zipcode",rmodel.Postal_Zipcode );
+
+        int rowAffected=com.ExecuteNonQuery();
+        if(rowAffected>0){
+            con.Close();
+            return RedirectToAction("Login");
+        }
+        else{
+            con.Close();
+            return View("Error");
+        }
+        
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

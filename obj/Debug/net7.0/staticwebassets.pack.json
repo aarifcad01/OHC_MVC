@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\OHCPROJ.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\log-reg.css",
+      "PackagePath": "staticwebassets\\css\\log-reg.css"
+    },
+    {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -59,6 +63,10 @@
     {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\homebg.jpg",
       "PackagePath": "staticwebassets\\images\\homebg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\images\\img-sprite.png"
     },
     {
       "Id": "C:\\Users\\aarifcad01\\Desktop\\cadbatch\\project\\OHC_MVC\\wwwroot\\images\\lock.png",
